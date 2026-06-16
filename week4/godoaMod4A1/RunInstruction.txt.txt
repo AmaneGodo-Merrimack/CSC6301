@@ -1,0 +1,29 @@
+# Run Instructions
+
+## Compile
+
+```bash
+javac *.java
+```
+
+## Run
+
+```bash
+java Demo
+```
+
+## Generate JavaDocs
+
+```bash
+javadoc -d doc *.java
+```
+
+## Files Included
+
+* NotificationMedium.java
+* EmailService.java
+* SMSService.java
+* AlertSystem.java
+* Demo.java
+* UML_Diagram.pdf
+* docs/ (generated JavaDocs)
