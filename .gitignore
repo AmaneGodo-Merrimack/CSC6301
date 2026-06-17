@@ -1,0 +1,17 @@
+# Compiled Java class files
+*.class
+
+# Generated build directories
+bin/
+
+# Generated JavaDocs
+doc/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+
+# MacOS
+.DS_Store

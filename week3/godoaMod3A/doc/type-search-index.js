@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Connectable"},{"p":"<Unnamed>","l":"SmartDevice"},{"p":"<Unnamed>","l":"SmartHomeDeviceManager"},{"p":"<Unnamed>","l":"SmartLight"}];updateSearchResults();
