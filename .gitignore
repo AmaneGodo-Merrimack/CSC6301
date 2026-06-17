@@ -4,9 +4,6 @@
 # Generated build directories
 bin/
 
-# Generated JavaDocs
-doc/
-
 # VS Code
 .vscode/
 
